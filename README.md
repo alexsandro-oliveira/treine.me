@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Treine.me é o projeto de site de academia para desenvolver habilidades na programação WEB.
 
-- [Visite o projeto online](https://alexsandro-oliveria.github.io/treine.me)
+- [Visite o projeto online](https://alexsandro-oliveira.github.io/treine.me/)
 
 ## 🔖 Layout
 
